@@ -1,5 +1,12 @@
 # Target Estagio
-<p>3) Observe o trecho de código abaixo: <br>int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA); <br>
+<p>
+2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
+
+IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;<br>
+<strong>R: <a>https://github.com/VNNiH/TargetEstagio/blob/main/verificandoString.php</a> </strong>
+</p>
+<p>
+  3) Observe o trecho de código abaixo: <br>int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA); <br>
 Ao final do processamento, qual será o valor da variável SOMA?<br>
 <strong> R: O valor de SOMA é igual a 77 ( SOMA = 77) </strong>
 </p>
